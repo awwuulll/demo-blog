@@ -41,12 +41,12 @@ const Page = async () => {
           <div className="flex justify-center px-4">
             <img
               src="https://fast.image.delivery/freriea.jpg" 
-              alt="Aul's Profile Picture"
+              alt="Aul&apos;s Profile Picture"
               className="w-4/5 aspect-[3/4] object-cover"
             />
           </div>
           <p>
-            Hey there! I'm Samantha, a 28-year-old former corporate warrior who
+            Hey there! I&apos;m Samantha, a 28-year-old former corporate warrior who
             decided to ditch the 9-to-5 grind and embark on an adventure of a
             lifetime. After years of hustling in a high-pressure job, I realized
             that life is too short to be stuck in an office, staring at
@@ -64,25 +64,25 @@ const Page = async () => {
             />
           </p>
           <p>
-            This blog is where I'll be documenting my travels, sharing my
+            This blog is where I&apos;ll be documenting my travels, sharing my
             experiences, and hopefully inspiring others to follow their
             wanderlust. From trekking through remote villages to savoring local
-            cuisines, I'm on a mission to immerse myself in different cultures
+            cuisines, I&apos;m on a mission to immerse myself in different cultures
             and create memories that will last a lifetime.
           </p>
           <p>
-            But this journey isn't just about checking off destinations from a
-            bucket list. It's about self-discovery, personal growth, and finding
-            the courage to live life on my own terms. I'll be honest and raw,
+            But this journey isn&apos;t just about checking off destinations from a
+            bucket list. It&apos;s about self-discovery, personal growth, and finding
+            the courage to live life on my own terms. I&apos;ll be honest and raw,
             sharing the highs and lows, the moments of pure bliss and the
             inevitable challenges that come with solo travel.
           </p>
           <p>
-            So join me on this adventure, and let's explore the world together!
+            So join me on this adventure, and let&apos;s explore the world together!
             Who knows, maybe my stories will inspire you to take that leap of
             faith and pursue your own dreams, whatever they may be.
           </p>
-          <p>Let's go on an adventure!</p>
+          <p>Let&apos;s go on an adventure!</p>
           <p>Love,</p>
           <p>Aul</p>
         </div>
