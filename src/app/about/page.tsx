@@ -46,7 +46,7 @@ const Page = async () => {
             />
           </div>
           <p>
-            Hey there! I&apos;m Samantha, a 28-year-old former corporate warrior who
+            Hey there! I&apos;m Aulia, a 23-year-old former dota2 player warrior who
             decided to ditch the 9-to-5 grind and embark on an adventure of a
             lifetime. After years of hustling in a high-pressure job, I realized
             that life is too short to be stuck in an office, staring at
