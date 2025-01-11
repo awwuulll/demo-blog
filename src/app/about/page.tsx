@@ -6,10 +6,10 @@ import { signOgImageUrl } from "@/lib/og-image";
 export async function generateMetadata() {
   return {
     title: "About Me",
-    description: "Learn more about Aul and her travel adventures",
+    description: "Learn more about Aul ",
     openGraph: {
       title: "About Me",
-      description: "Learn more about Aul and her travel adventures",
+      description: "Learn more about Aul ",
       images: [
         signOgImageUrl({
           title: "Aul",
@@ -21,7 +21,7 @@ export async function generateMetadata() {
     twitter: {
       card: "summary_large_image",
       title: "About Me",
-      description: "Learn more about Aul and her travel adventures",
+      description: "Learn more about Aul ",
       image: signOgImageUrl({
         title: "Aul",
         label: "About Me",
@@ -40,50 +40,34 @@ const Page = async () => {
           <h1 id="about-me">About Me</h1>
           <div className="flex justify-center px-4">
             <img
-              src="https://fast.image.delivery/freriea.jpg" 
-              alt="Aul&apos;s Profile Picture"
+              src="https://fast.image.delivery/freriea.jpg"
+              alt="Aul's Profile Picture"
               className="w-4/5 aspect-[3/4] object-cover"
             />
           </div>
           <p>
-            Hey there! I&apos;m Aulia, a 23-year-old former dota2 player warrior who
-            decided to ditch the 9-to-5 grind and embark on an adventure of a
-            lifetime. After years of hustling in a high-pressure job, I realized
-            that life is too short to be stuck in an office, staring at
-            spreadsheets all day.
+            Halo! Nama saya Aulia Rahman Hakim, seorang Software Engineer dengan
+            spesialisasi di bidang front-end. Saya baru saja lulus dari Jurusan
+            Informatika di Universitas Islam Indonesia. Teknologi adalah passion
+            saya, dan saya selalu mengikuti perkembangan terbaru di dunia
+            teknologi.
           </p>
           <p>
-            So I took a leap of faith, quit my cushy job in Singapore, and
-            decided to see the world on my own terms. No more stuffy meetings or
-            rigid schedules - just me, my backpack, and an open road ahead.
+            Di luar pekerjaan, saya memiliki berbagai minat. Saya sangat
+            menyukai olahraga, terutama basket, bulu tangkis, dan weight
+            lifting. Selain itu, saya juga gemar menonton film dan anime yang
+            menginspirasi saya untuk terus berkembang dalam berbagai aspek
+            kehidupan. Tak ketinggalan, saya juga suka bermain game sebagai cara
+            untuk bersantai dan menambah wawasan.
           </p>
           <p>
-            <img
-              src="https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/6b080e65-2329-4a36-ad5c-0a6af8d9aeb1.png/public"
-              alt="Samantha Traveling"
-            />
+            Di blog ini, saya akan berbagi pemikiran, pengalaman, serta ide-ide
+            seputar dunia teknologi dan kehidupan sehari-hari. Semoga kamu bisa
+            menemukan sesuatu yang bermanfaat di sini!
           </p>
           <p>
-            This blog is where I&apos;ll be documenting my travels, sharing my
-            experiences, and hopefully inspiring others to follow their
-            wanderlust. From trekking through remote villages to savoring local
-            cuisines, I&apos;m on a mission to immerse myself in different cultures
-            and create memories that will last a lifetime.
-          </p>
-          <p>
-            But this journey isn&apos;t just about checking off destinations from a
-            bucket list. It&apos;s about self-discovery, personal growth, and finding
-            the courage to live life on my own terms. I&apos;ll be honest and raw,
-            sharing the highs and lows, the moments of pure bliss and the
-            inevitable challenges that come with solo travel.
-          </p>
-          <p>
-            So join me on this adventure, and let&apos;s explore the world together!
-            Who knows, maybe my stories will inspire you to take that leap of
-            faith and pursue your own dreams, whatever they may be.
-          </p>
-          <p>Let&apos;s go on an adventure!</p>
-          <p>Love,</p>
+            Jika kamu tertarik untuk berdiskusi atau sekadar menyapa saya, jangan
+            ragu untuk menghubungi saya.</p>
           <p>Aul</p>
         </div>
       </div>
